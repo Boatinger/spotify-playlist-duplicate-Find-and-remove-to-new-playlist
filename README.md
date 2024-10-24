@@ -90,7 +90,9 @@ Here, `6g25SNucbeCjxAJXIZ5RSJ` is the playlist ID.
 ```
 Source Playlist                                      | Comparison Playlist                                
 ---------------------------------------------------- | ------------------------------------------------
-Track A                   spotify:track:1abcdefg1234567   | Track A                   spotify:track:1abcdefg1234567
+Track A         spotify:track:1abcdefg1234567        | Track B         spotify:track:1abcdefg1234567
+Track A         spotify:track:1abcdefg1234567        | Track B         spotify:track:1abcdefg1234567
+---------------------------------------------------- | ------------------------------------------------
 Added 69 duplicate tracks to the playlist: Duplicates from Source
 Removed 69 duplicate tracks from the source playlist.
 ```
